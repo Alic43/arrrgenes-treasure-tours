@@ -49,6 +49,16 @@ body {
   align-items: center;
 }
 
+a:focus {
+  outline: 3px solid #000;
+}
+
+a:hover {
+  text-decoration: underline;
+  background-color: #fff;
+  color: #000;
+}
+
 .nav a {
   color: #fff;
   padding: .5em;
