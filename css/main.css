@@ -52,13 +52,11 @@ body {
 a:focus, .banner a:focus {
   outline: 3px solid #fff;
   background-color: #000;
-  box-shadow: 3px;
 }
 
 .card a:focus {
   outline: 3px solid #000;
   background-color: #fff;
-  box-shadow: 3px;
 }
 
 .card a:hover, .banner a:hover, a:hover {
@@ -80,10 +78,7 @@ a:focus, .banner a:focus {
   grid-template-areas: "banner";
   color: #fff;
   font-size: 1.5rem;
-}
-
-.banner {
-  background-color: #522806;
+    background-color: #522806;
 }
 
 .banner img {
