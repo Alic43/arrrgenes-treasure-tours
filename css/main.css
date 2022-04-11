@@ -91,7 +91,7 @@ a:focus, .banner a:focus {
   width: 100%;
 }
 
-.banner div {
+.banner section {
   grid-area: banner;
   align-self: center;
   justify-self: center;
