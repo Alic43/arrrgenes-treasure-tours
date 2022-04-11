@@ -164,5 +164,5 @@ a:focus:last-of-type {
 }
 
 header nav:last-of-type a:not(.current) {
-
+  outline: 3px solid #fff;
 }
