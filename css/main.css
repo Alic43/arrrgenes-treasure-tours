@@ -50,6 +50,10 @@ body {
 }
 
 a:focus {
+  outline: 3px solid #fff;
+}
+
+a:focus:last-of-type {
   outline: 3px solid #000;
 }
 
@@ -157,4 +161,8 @@ a:focus {
 
 .footer * {
   margin: 0;
+}
+
+header nav:last-of-type a:not(.current) {
+
 }
